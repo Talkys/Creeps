@@ -10,4 +10,4 @@ The idea is to dodge all the enemies as long as possible. It's a quite hard game
 
 ## Instalation
 
-You can build the source with Godot by yourself or you can download the flatpak budle on the releases page and install with: `flatpak install -user <flatpakbundlename>`
+You can build the source with Godot by yourself or you can download the flatpak budle on the releases page and install with: `flatpak install --user <flatpakbundlename>`
